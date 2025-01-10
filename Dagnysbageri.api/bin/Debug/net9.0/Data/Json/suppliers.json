@@ -1,0 +1,23 @@
+[
+  {
+    "name": "MilkLand",
+    "address": "Resengatan 7, 187 89, Stockholm",
+    "contactPerson": "Karl Andersson",
+    "phone": "+46-735679876",
+    "email": "karl.andersson@gmail.com"
+  },
+  {
+    "name": "SweetCompany",
+    "address": "Strandvägen 97, 567 32, Kristianstad",
+    "contactPerson": "James Svensson",
+    "phone": "+46-763345689",
+    "email": "james.svensson@gmail.com"
+  },
+  {
+    "name": "MatoMer",
+    "address": "Bilgatan 37, 754 80, Borås",
+    "contactPerson": "Ines Karlstrom",
+    "phone": "+46-74678906",
+    "email": "ines.karlstrom@hotmail.com"
+  }
+]
